@@ -11,3 +11,5 @@ A best run extension for mega hack v7 with a few more added features
 ![Screenshot](img/window.png)
 
 ![Screenshot](img/in-game.png)
+
+This project was made using a template made by mat
